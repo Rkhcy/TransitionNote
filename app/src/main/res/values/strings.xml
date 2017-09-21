@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">TransitionNote</string>
+    <string name="move">move</string>
+    <string name="toggle">toggle</string>
+    <string name="hello_world">hello world</string>
+    <string name="begin">begin</string>
+    <string name="fit_xy">fit_xy</string>
+    <string name="center">center</string>
+    <string name="center_crop">center_crop</string>
+    <string name="fit_start">fit_start</string>
+    <string name="fit_end">fit_end</string>
+    <string name="matrix">matrix</string>
+    <string name="photo">photo</string>
+    <array name="list_name">
+        <item>AutoTransition</item>
+        <item>ChangeBounds</item>
+        <item>ChangeClipBounds</item>
+        <item>ChangeImageTransform</item>
+        <item>ChangeScroll</item>
+        <item>ChangeTransform</item>
+        <item>Explode/Fade/Slide</item>
+        <item>TransitionSet</item>
+        <item>PathMotion</item>
+        <item>CustomTransitionWithoutScene</item>
+        <item>Scene</item>
+        <item>CustomTransitionWithScene</item>
+    </array>
+</resources>
